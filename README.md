@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: xxh11102019@outlook.com
+- 📫 How to reach me: xxh11102019 [AT] outlook.com
 
 ## Github Status
 <div align="center">
