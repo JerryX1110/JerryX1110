@@ -5,8 +5,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryX1110&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-## Total Visitors:
-![Visitor Count](https://profile-counter.glitch.me/JerryX1110/count.svg)
+
 
 <!--
 **JerryX1110/JerryX1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+## Total Visitors:
+![Visitor Count](https://profile-counter.glitch.me/JerryX1110/count.svg)
 ## Frequent Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryX1110)](https://github.com/RobertLuo1/github-readme-stats)
 -->
