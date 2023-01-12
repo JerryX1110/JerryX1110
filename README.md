@@ -1,5 +1,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> | 📫 xxh11102019 [AT] outlook.com
 
+| <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryX1110&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xiaohao's github stats" /></a> | <a href="https://github.com/mczhuge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryX1110&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
 
   
 <!--
